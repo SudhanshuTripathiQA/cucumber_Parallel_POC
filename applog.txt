@@ -1,0 +1,449 @@
+INFO    2024-08-11 02:07:43,187 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:07:43,187 [main] com.qa.util.Utility  68- Time left is: 119391 milliseconds
+INFO    2024-08-11 02:07:43,726 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:07:43,726 [main] com.qa.util.Utility  68- Time left is: 118852 milliseconds
+INFO    2024-08-11 02:07:44,265 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:07:44,267 [main] com.qa.util.Utility  68- Time left is: 118311 milliseconds
+INFO    2024-08-11 02:07:44,803 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:07:44,803 [main] com.qa.util.Utility  68- Time left is: 117775 milliseconds
+INFO    2024-08-11 02:07:45,343 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:07:45,343 [main] com.qa.util.Utility  68- Time left is: 117235 milliseconds
+INFO    2024-08-11 02:07:45,867 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:07:45,867 [main] com.qa.util.Utility  68- Time left is: 116711 milliseconds
+INFO    2024-08-11 02:07:46,393 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:07:46,393 [main] com.qa.util.Utility  68- Time left is: 116185 milliseconds
+INFO    2024-08-11 02:07:46,931 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:07:46,931 [main] com.qa.util.Utility  68- Time left is: 115647 milliseconds
+INFO    2024-08-11 02:07:47,469 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:07:47,469 [main] com.qa.util.Utility  68- Time left is: 115109 milliseconds
+INFO    2024-08-11 02:07:48,057 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:07:48,057 [main] com.qa.util.Utility  68- Time left is: 114521 milliseconds
+INFO    2024-08-11 02:07:48,661 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:07:48,661 [main] com.qa.util.Utility  68- Time left is: 113917 milliseconds
+INFO    2024-08-11 02:07:49,215 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:07:49,216 [main] com.qa.util.Utility  68- Time left is: 113362 milliseconds
+INFO    2024-08-11 02:07:49,761 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:07:49,761 [main] com.qa.util.Utility  68- Time left is: 112817 milliseconds
+INFO    2024-08-11 02:07:50,318 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:07:50,318 [main] com.qa.util.Utility  68- Time left is: 112260 milliseconds
+INFO    2024-08-11 02:07:50,857 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:07:50,858 [main] com.qa.util.Utility  68- Time left is: 111720 milliseconds
+INFO    2024-08-11 02:07:51,383 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:07:51,383 [main] com.qa.util.Utility  68- Time left is: 111195 milliseconds
+INFO    2024-08-11 02:07:51,921 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:07:51,921 [main] com.qa.util.Utility  68- Time left is: 110657 milliseconds
+INFO    2024-08-11 02:07:52,451 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:07:52,451 [main] com.qa.util.Utility  68- Time left is: 110127 milliseconds
+INFO    2024-08-11 02:07:52,985 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:07:52,985 [main] com.qa.util.Utility  68- Time left is: 109593 milliseconds
+INFO    2024-08-11 02:07:53,515 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:07:53,516 [main] com.qa.util.Utility  68- Time left is: 109062 milliseconds
+INFO    2024-08-11 02:07:54,042 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:07:54,042 [main] com.qa.util.Utility  68- Time left is: 108536 milliseconds
+INFO    2024-08-11 02:07:54,566 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:07:54,566 [main] com.qa.util.Utility  68- Time left is: 108012 milliseconds
+INFO    2024-08-11 02:07:55,096 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:07:55,096 [main] com.qa.util.Utility  68- Time left is: 107482 milliseconds
+INFO    2024-08-11 02:07:55,618 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:07:55,618 [main] com.qa.util.Utility  68- Time left is: 106960 milliseconds
+INFO    2024-08-11 02:07:56,154 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:07:56,154 [main] com.qa.util.Utility  68- Time left is: 106424 milliseconds
+INFO    2024-08-11 02:07:56,684 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:07:56,684 [main] com.qa.util.Utility  68- Time left is: 105894 milliseconds
+INFO    2024-08-11 02:07:57,217 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:07:57,218 [main] com.qa.util.Utility  68- Time left is: 105360 milliseconds
+INFO    2024-08-11 02:07:57,746 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:07:57,746 [main] com.qa.util.Utility  68- Time left is: 104832 milliseconds
+INFO    2024-08-11 02:07:58,276 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:07:58,276 [main] com.qa.util.Utility  68- Time left is: 104302 milliseconds
+INFO    2024-08-11 02:07:58,806 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:07:58,806 [main] com.qa.util.Utility  68- Time left is: 103772 milliseconds
+INFO    2024-08-11 02:07:59,336 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:07:59,336 [main] com.qa.util.Utility  68- Time left is: 103242 milliseconds
+INFO    2024-08-11 02:07:59,861 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:07:59,861 [main] com.qa.util.Utility  68- Time left is: 102717 milliseconds
+INFO    2024-08-11 02:08:00,401 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:00,401 [main] com.qa.util.Utility  68- Time left is: 102177 milliseconds
+INFO    2024-08-11 02:08:00,942 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:00,942 [main] com.qa.util.Utility  68- Time left is: 101636 milliseconds
+INFO    2024-08-11 02:08:01,469 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:01,469 [main] com.qa.util.Utility  68- Time left is: 101109 milliseconds
+INFO    2024-08-11 02:08:02,006 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:02,006 [main] com.qa.util.Utility  68- Time left is: 100572 milliseconds
+INFO    2024-08-11 02:08:02,536 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:02,536 [main] com.qa.util.Utility  68- Time left is: 100042 milliseconds
+INFO    2024-08-11 02:08:03,065 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:03,066 [main] com.qa.util.Utility  68- Time left is: 99512 milliseconds
+INFO    2024-08-11 02:08:03,686 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:03,686 [main] com.qa.util.Utility  68- Time left is: 98892 milliseconds
+INFO    2024-08-11 02:08:04,225 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:04,225 [main] com.qa.util.Utility  68- Time left is: 98353 milliseconds
+INFO    2024-08-11 02:08:04,762 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:04,762 [main] com.qa.util.Utility  68- Time left is: 97816 milliseconds
+INFO    2024-08-11 02:08:05,286 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:05,286 [main] com.qa.util.Utility  68- Time left is: 97292 milliseconds
+INFO    2024-08-11 02:08:05,810 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:05,810 [main] com.qa.util.Utility  68- Time left is: 96768 milliseconds
+INFO    2024-08-11 02:08:06,346 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:06,346 [main] com.qa.util.Utility  68- Time left is: 96232 milliseconds
+INFO    2024-08-11 02:08:06,906 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:06,906 [main] com.qa.util.Utility  68- Time left is: 95672 milliseconds
+INFO    2024-08-11 02:08:07,432 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:07,432 [main] com.qa.util.Utility  68- Time left is: 95146 milliseconds
+INFO    2024-08-11 02:08:07,968 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:07,968 [main] com.qa.util.Utility  68- Time left is: 94610 milliseconds
+INFO    2024-08-11 02:08:08,494 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:08,495 [main] com.qa.util.Utility  68- Time left is: 94083 milliseconds
+INFO    2024-08-11 02:08:09,030 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:09,031 [main] com.qa.util.Utility  68- Time left is: 93547 milliseconds
+INFO    2024-08-11 02:08:09,566 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:09,566 [main] com.qa.util.Utility  68- Time left is: 93012 milliseconds
+INFO    2024-08-11 02:08:10,094 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:10,094 [main] com.qa.util.Utility  68- Time left is: 92484 milliseconds
+INFO    2024-08-11 02:08:10,634 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:10,634 [main] com.qa.util.Utility  68- Time left is: 91944 milliseconds
+INFO    2024-08-11 02:08:11,177 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:11,177 [main] com.qa.util.Utility  68- Time left is: 91401 milliseconds
+INFO    2024-08-11 02:08:11,715 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:11,715 [main] com.qa.util.Utility  68- Time left is: 90863 milliseconds
+INFO    2024-08-11 02:08:12,251 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:12,251 [main] com.qa.util.Utility  68- Time left is: 90327 milliseconds
+INFO    2024-08-11 02:08:12,789 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:12,790 [main] com.qa.util.Utility  68- Time left is: 89788 milliseconds
+INFO    2024-08-11 02:08:13,322 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:13,322 [main] com.qa.util.Utility  68- Time left is: 89256 milliseconds
+INFO    2024-08-11 02:08:13,870 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:13,870 [main] com.qa.util.Utility  68- Time left is: 88708 milliseconds
+INFO    2024-08-11 02:08:14,393 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:14,393 [main] com.qa.util.Utility  68- Time left is: 88185 milliseconds
+INFO    2024-08-11 02:08:14,914 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:14,914 [main] com.qa.util.Utility  68- Time left is: 87664 milliseconds
+INFO    2024-08-11 02:08:15,446 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:15,446 [main] com.qa.util.Utility  68- Time left is: 87132 milliseconds
+INFO    2024-08-11 02:08:15,979 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:15,980 [main] com.qa.util.Utility  68- Time left is: 86598 milliseconds
+INFO    2024-08-11 02:08:16,518 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:16,518 [main] com.qa.util.Utility  68- Time left is: 86060 milliseconds
+INFO    2024-08-11 02:08:17,044 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:17,044 [main] com.qa.util.Utility  68- Time left is: 85534 milliseconds
+INFO    2024-08-11 02:08:17,578 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:17,578 [main] com.qa.util.Utility  68- Time left is: 85000 milliseconds
+INFO    2024-08-11 02:08:18,106 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:18,106 [main] com.qa.util.Utility  68- Time left is: 84472 milliseconds
+INFO    2024-08-11 02:08:18,639 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:18,639 [main] com.qa.util.Utility  68- Time left is: 83939 milliseconds
+INFO    2024-08-11 02:08:19,163 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:19,163 [main] com.qa.util.Utility  68- Time left is: 83415 milliseconds
+INFO    2024-08-11 02:08:19,710 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:19,710 [main] com.qa.util.Utility  68- Time left is: 82868 milliseconds
+INFO    2024-08-11 02:08:20,240 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:20,240 [main] com.qa.util.Utility  68- Time left is: 82338 milliseconds
+INFO    2024-08-11 02:08:20,780 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:20,781 [main] com.qa.util.Utility  68- Time left is: 81797 milliseconds
+INFO    2024-08-11 02:08:21,313 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:21,313 [main] com.qa.util.Utility  68- Time left is: 81265 milliseconds
+INFO    2024-08-11 02:08:21,839 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:21,840 [main] com.qa.util.Utility  68- Time left is: 80738 milliseconds
+INFO    2024-08-11 02:08:22,379 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:22,379 [main] com.qa.util.Utility  68- Time left is: 80199 milliseconds
+INFO    2024-08-11 02:08:22,919 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:22,920 [main] com.qa.util.Utility  68- Time left is: 79658 milliseconds
+INFO    2024-08-11 02:08:23,452 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:23,452 [main] com.qa.util.Utility  68- Time left is: 79126 milliseconds
+INFO    2024-08-11 02:08:23,998 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:23,998 [main] com.qa.util.Utility  68- Time left is: 78580 milliseconds
+INFO    2024-08-11 02:08:24,781 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:24,781 [main] com.qa.util.Utility  68- Time left is: 77797 milliseconds
+INFO    2024-08-11 02:08:25,520 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:25,520 [main] com.qa.util.Utility  68- Time left is: 77058 milliseconds
+INFO    2024-08-11 02:08:26,049 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:26,050 [main] com.qa.util.Utility  68- Time left is: 76528 milliseconds
+INFO    2024-08-11 02:08:26,613 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:26,613 [main] com.qa.util.Utility  68- Time left is: 75965 milliseconds
+INFO    2024-08-11 02:08:27,164 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:27,164 [main] com.qa.util.Utility  68- Time left is: 75414 milliseconds
+INFO    2024-08-11 02:08:27,716 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:27,718 [main] com.qa.util.Utility  68- Time left is: 74860 milliseconds
+INFO    2024-08-11 02:08:28,259 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:28,260 [main] com.qa.util.Utility  68- Time left is: 74318 milliseconds
+INFO    2024-08-11 02:08:28,807 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:28,807 [main] com.qa.util.Utility  68- Time left is: 73771 milliseconds
+INFO    2024-08-11 02:08:29,354 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:29,354 [main] com.qa.util.Utility  68- Time left is: 73224 milliseconds
+INFO    2024-08-11 02:08:29,900 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:29,900 [main] com.qa.util.Utility  68- Time left is: 72678 milliseconds
+INFO    2024-08-11 02:08:30,423 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:30,423 [main] com.qa.util.Utility  68- Time left is: 72155 milliseconds
+INFO    2024-08-11 02:08:30,950 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:30,950 [main] com.qa.util.Utility  68- Time left is: 71628 milliseconds
+INFO    2024-08-11 02:08:31,478 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:31,478 [main] com.qa.util.Utility  68- Time left is: 71100 milliseconds
+INFO    2024-08-11 02:08:32,009 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:32,010 [main] com.qa.util.Utility  68- Time left is: 70568 milliseconds
+INFO    2024-08-11 02:08:32,547 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:32,547 [main] com.qa.util.Utility  68- Time left is: 70031 milliseconds
+INFO    2024-08-11 02:08:33,089 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:33,089 [main] com.qa.util.Utility  68- Time left is: 69489 milliseconds
+INFO    2024-08-11 02:08:33,628 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:33,628 [main] com.qa.util.Utility  68- Time left is: 68950 milliseconds
+INFO    2024-08-11 02:08:34,179 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:34,180 [main] com.qa.util.Utility  68- Time left is: 68398 milliseconds
+INFO    2024-08-11 02:08:34,716 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:34,716 [main] com.qa.util.Utility  68- Time left is: 67862 milliseconds
+INFO    2024-08-11 02:08:35,252 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:35,256 [main] com.qa.util.Utility  68- Time left is: 67322 milliseconds
+INFO    2024-08-11 02:08:35,800 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:35,801 [main] com.qa.util.Utility  68- Time left is: 66777 milliseconds
+INFO    2024-08-11 02:08:36,394 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:36,400 [main] com.qa.util.Utility  68- Time left is: 66178 milliseconds
+INFO    2024-08-11 02:08:36,943 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:36,951 [main] com.qa.util.Utility  68- Time left is: 65627 milliseconds
+INFO    2024-08-11 02:08:37,500 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:37,500 [main] com.qa.util.Utility  68- Time left is: 65078 milliseconds
+INFO    2024-08-11 02:08:38,050 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:38,054 [main] com.qa.util.Utility  68- Time left is: 64524 milliseconds
+INFO    2024-08-11 02:08:38,598 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:38,602 [main] com.qa.util.Utility  68- Time left is: 63976 milliseconds
+INFO    2024-08-11 02:08:39,244 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:39,244 [main] com.qa.util.Utility  68- Time left is: 63334 milliseconds
+INFO    2024-08-11 02:08:39,795 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:39,800 [main] com.qa.util.Utility  68- Time left is: 62778 milliseconds
+INFO    2024-08-11 02:08:40,375 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:40,375 [main] com.qa.util.Utility  68- Time left is: 62203 milliseconds
+INFO    2024-08-11 02:08:40,964 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:40,964 [main] com.qa.util.Utility  68- Time left is: 61614 milliseconds
+INFO    2024-08-11 02:08:41,550 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:41,550 [main] com.qa.util.Utility  68- Time left is: 61028 milliseconds
+INFO    2024-08-11 02:08:42,105 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:42,106 [main] com.qa.util.Utility  68- Time left is: 60472 milliseconds
+INFO    2024-08-11 02:08:42,649 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:42,649 [main] com.qa.util.Utility  68- Time left is: 59929 milliseconds
+INFO    2024-08-11 02:08:43,184 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:43,185 [main] com.qa.util.Utility  68- Time left is: 59393 milliseconds
+INFO    2024-08-11 02:08:43,709 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:43,709 [main] com.qa.util.Utility  68- Time left is: 58869 milliseconds
+INFO    2024-08-11 02:08:44,240 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:44,240 [main] com.qa.util.Utility  68- Time left is: 58338 milliseconds
+INFO    2024-08-11 02:08:44,774 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:44,775 [main] com.qa.util.Utility  68- Time left is: 57803 milliseconds
+INFO    2024-08-11 02:08:45,299 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:45,299 [main] com.qa.util.Utility  68- Time left is: 57279 milliseconds
+INFO    2024-08-11 02:08:45,820 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:45,820 [main] com.qa.util.Utility  68- Time left is: 56758 milliseconds
+INFO    2024-08-11 02:08:46,340 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:46,341 [main] com.qa.util.Utility  68- Time left is: 56237 milliseconds
+INFO    2024-08-11 02:08:46,880 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:46,881 [main] com.qa.util.Utility  68- Time left is: 55697 milliseconds
+INFO    2024-08-11 02:08:47,410 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:47,410 [main] com.qa.util.Utility  68- Time left is: 55168 milliseconds
+INFO    2024-08-11 02:08:47,940 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:47,941 [main] com.qa.util.Utility  68- Time left is: 54637 milliseconds
+INFO    2024-08-11 02:08:48,464 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:48,464 [main] com.qa.util.Utility  68- Time left is: 54114 milliseconds
+INFO    2024-08-11 02:08:48,990 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:48,991 [main] com.qa.util.Utility  68- Time left is: 53587 milliseconds
+INFO    2024-08-11 02:08:49,515 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:49,516 [main] com.qa.util.Utility  68- Time left is: 53062 milliseconds
+INFO    2024-08-11 02:08:50,040 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:50,040 [main] com.qa.util.Utility  68- Time left is: 52538 milliseconds
+INFO    2024-08-11 02:08:50,568 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:50,568 [main] com.qa.util.Utility  68- Time left is: 52010 milliseconds
+INFO    2024-08-11 02:08:51,110 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:51,110 [main] com.qa.util.Utility  68- Time left is: 51468 milliseconds
+INFO    2024-08-11 02:08:51,638 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:51,639 [main] com.qa.util.Utility  68- Time left is: 50939 milliseconds
+INFO    2024-08-11 02:08:52,167 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:52,167 [main] com.qa.util.Utility  68- Time left is: 50411 milliseconds
+INFO    2024-08-11 02:08:52,690 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:52,691 [main] com.qa.util.Utility  68- Time left is: 49887 milliseconds
+INFO    2024-08-11 02:08:53,219 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:53,220 [main] com.qa.util.Utility  68- Time left is: 49358 milliseconds
+INFO    2024-08-11 02:08:53,750 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:53,751 [main] com.qa.util.Utility  68- Time left is: 48827 milliseconds
+INFO    2024-08-11 02:08:54,285 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:54,285 [main] com.qa.util.Utility  68- Time left is: 48293 milliseconds
+INFO    2024-08-11 02:08:54,809 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:54,809 [main] com.qa.util.Utility  68- Time left is: 47769 milliseconds
+INFO    2024-08-11 02:08:55,332 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:55,332 [main] com.qa.util.Utility  68- Time left is: 47246 milliseconds
+INFO    2024-08-11 02:08:55,869 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:55,870 [main] com.qa.util.Utility  68- Time left is: 46708 milliseconds
+INFO    2024-08-11 02:08:56,400 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:56,401 [main] com.qa.util.Utility  68- Time left is: 46177 milliseconds
+INFO    2024-08-11 02:08:56,948 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:56,953 [main] com.qa.util.Utility  68- Time left is: 45625 milliseconds
+INFO    2024-08-11 02:08:57,490 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:57,490 [main] com.qa.util.Utility  68- Time left is: 45088 milliseconds
+INFO    2024-08-11 02:08:58,020 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:58,021 [main] com.qa.util.Utility  68- Time left is: 44557 milliseconds
+INFO    2024-08-11 02:08:58,553 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:58,553 [main] com.qa.util.Utility  68- Time left is: 44025 milliseconds
+INFO    2024-08-11 02:08:59,079 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:59,079 [main] com.qa.util.Utility  68- Time left is: 43499 milliseconds
+INFO    2024-08-11 02:08:59,608 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:08:59,608 [main] com.qa.util.Utility  68- Time left is: 42970 milliseconds
+INFO    2024-08-11 02:09:00,140 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:00,141 [main] com.qa.util.Utility  68- Time left is: 42437 milliseconds
+INFO    2024-08-11 02:09:00,665 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:00,665 [main] com.qa.util.Utility  68- Time left is: 41913 milliseconds
+INFO    2024-08-11 02:09:01,188 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:01,188 [main] com.qa.util.Utility  68- Time left is: 41390 milliseconds
+INFO    2024-08-11 02:09:01,710 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:01,711 [main] com.qa.util.Utility  68- Time left is: 40867 milliseconds
+INFO    2024-08-11 02:09:02,244 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:02,244 [main] com.qa.util.Utility  68- Time left is: 40334 milliseconds
+INFO    2024-08-11 02:09:02,771 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:02,771 [main] com.qa.util.Utility  68- Time left is: 39807 milliseconds
+INFO    2024-08-11 02:09:03,297 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:03,297 [main] com.qa.util.Utility  68- Time left is: 39281 milliseconds
+INFO    2024-08-11 02:09:03,821 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:03,821 [main] com.qa.util.Utility  68- Time left is: 38757 milliseconds
+INFO    2024-08-11 02:09:04,345 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:04,345 [main] com.qa.util.Utility  68- Time left is: 38233 milliseconds
+INFO    2024-08-11 02:09:04,898 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:04,898 [main] com.qa.util.Utility  68- Time left is: 37680 milliseconds
+INFO    2024-08-11 02:09:05,423 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:05,423 [main] com.qa.util.Utility  68- Time left is: 37155 milliseconds
+INFO    2024-08-11 02:09:05,951 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:05,951 [main] com.qa.util.Utility  68- Time left is: 36627 milliseconds
+INFO    2024-08-11 02:09:06,475 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:06,475 [main] com.qa.util.Utility  68- Time left is: 36103 milliseconds
+INFO    2024-08-11 02:09:06,997 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:06,997 [main] com.qa.util.Utility  68- Time left is: 35581 milliseconds
+INFO    2024-08-11 02:09:07,521 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:07,521 [main] com.qa.util.Utility  68- Time left is: 35057 milliseconds
+INFO    2024-08-11 02:09:08,046 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:08,046 [main] com.qa.util.Utility  68- Time left is: 34532 milliseconds
+INFO    2024-08-11 02:09:08,570 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:08,571 [main] com.qa.util.Utility  68- Time left is: 34007 milliseconds
+INFO    2024-08-11 02:09:09,094 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:09,094 [main] com.qa.util.Utility  68- Time left is: 33484 milliseconds
+INFO    2024-08-11 02:09:09,619 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:09,619 [main] com.qa.util.Utility  68- Time left is: 32959 milliseconds
+INFO    2024-08-11 02:09:10,148 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:10,148 [main] com.qa.util.Utility  68- Time left is: 32430 milliseconds
+INFO    2024-08-11 02:09:10,691 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:10,691 [main] com.qa.util.Utility  68- Time left is: 31887 milliseconds
+INFO    2024-08-11 02:09:11,222 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:11,223 [main] com.qa.util.Utility  68- Time left is: 31355 milliseconds
+INFO    2024-08-11 02:09:11,756 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:11,756 [main] com.qa.util.Utility  68- Time left is: 30822 milliseconds
+INFO    2024-08-11 02:09:12,291 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:12,291 [main] com.qa.util.Utility  68- Time left is: 30287 milliseconds
+INFO    2024-08-11 02:09:12,816 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:12,816 [main] com.qa.util.Utility  68- Time left is: 29762 milliseconds
+INFO    2024-08-11 02:09:13,353 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:13,353 [main] com.qa.util.Utility  68- Time left is: 29225 milliseconds
+INFO    2024-08-11 02:09:13,877 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:13,877 [main] com.qa.util.Utility  68- Time left is: 28701 milliseconds
+INFO    2024-08-11 02:09:14,402 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:14,402 [main] com.qa.util.Utility  68- Time left is: 28176 milliseconds
+INFO    2024-08-11 02:09:14,927 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:14,927 [main] com.qa.util.Utility  68- Time left is: 27651 milliseconds
+INFO    2024-08-11 02:09:15,452 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:15,452 [main] com.qa.util.Utility  68- Time left is: 27126 milliseconds
+INFO    2024-08-11 02:09:15,978 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:15,978 [main] com.qa.util.Utility  68- Time left is: 26600 milliseconds
+INFO    2024-08-11 02:09:16,504 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:16,504 [main] com.qa.util.Utility  68- Time left is: 26074 milliseconds
+INFO    2024-08-11 02:09:17,031 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:17,031 [main] com.qa.util.Utility  68- Time left is: 25547 milliseconds
+INFO    2024-08-11 02:09:17,554 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:17,554 [main] com.qa.util.Utility  68- Time left is: 25024 milliseconds
+INFO    2024-08-11 02:09:18,081 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:18,081 [main] com.qa.util.Utility  68- Time left is: 24497 milliseconds
+INFO    2024-08-11 02:09:18,608 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:18,608 [main] com.qa.util.Utility  68- Time left is: 23970 milliseconds
+INFO    2024-08-11 02:09:19,132 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:19,132 [main] com.qa.util.Utility  68- Time left is: 23446 milliseconds
+INFO    2024-08-11 02:09:19,660 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:19,660 [main] com.qa.util.Utility  68- Time left is: 22918 milliseconds
+INFO    2024-08-11 02:09:20,185 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:20,185 [main] com.qa.util.Utility  68- Time left is: 22393 milliseconds
+INFO    2024-08-11 02:09:20,708 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:20,708 [main] com.qa.util.Utility  68- Time left is: 21870 milliseconds
+INFO    2024-08-11 02:09:21,231 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:21,231 [main] com.qa.util.Utility  68- Time left is: 21347 milliseconds
+INFO    2024-08-11 02:09:21,761 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:21,761 [main] com.qa.util.Utility  68- Time left is: 20817 milliseconds
+INFO    2024-08-11 02:09:22,297 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:22,297 [main] com.qa.util.Utility  68- Time left is: 20281 milliseconds
+INFO    2024-08-11 02:09:22,822 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:22,822 [main] com.qa.util.Utility  68- Time left is: 19756 milliseconds
+INFO    2024-08-11 02:09:23,343 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:23,343 [main] com.qa.util.Utility  68- Time left is: 19235 milliseconds
+INFO    2024-08-11 02:09:23,869 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:23,869 [main] com.qa.util.Utility  68- Time left is: 18709 milliseconds
+INFO    2024-08-11 02:09:24,393 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:24,393 [main] com.qa.util.Utility  68- Time left is: 18185 milliseconds
+INFO    2024-08-11 02:09:24,921 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:24,921 [main] com.qa.util.Utility  68- Time left is: 17657 milliseconds
+INFO    2024-08-11 02:09:25,443 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:25,443 [main] com.qa.util.Utility  68- Time left is: 17135 milliseconds
+INFO    2024-08-11 02:09:25,967 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:25,967 [main] com.qa.util.Utility  68- Time left is: 16611 milliseconds
+INFO    2024-08-11 02:09:26,489 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:26,489 [main] com.qa.util.Utility  68- Time left is: 16089 milliseconds
+INFO    2024-08-11 02:09:27,013 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:27,013 [main] com.qa.util.Utility  68- Time left is: 15565 milliseconds
+INFO    2024-08-11 02:09:27,539 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:27,539 [main] com.qa.util.Utility  68- Time left is: 15039 milliseconds
+INFO    2024-08-11 02:09:28,065 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:28,065 [main] com.qa.util.Utility  68- Time left is: 14513 milliseconds
+INFO    2024-08-11 02:09:28,602 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:28,602 [main] com.qa.util.Utility  68- Time left is: 13976 milliseconds
+INFO    2024-08-11 02:09:29,125 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:29,125 [main] com.qa.util.Utility  68- Time left is: 13453 milliseconds
+INFO    2024-08-11 02:09:29,651 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:29,651 [main] com.qa.util.Utility  68- Time left is: 12927 milliseconds
+INFO    2024-08-11 02:09:30,179 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:30,179 [main] com.qa.util.Utility  68- Time left is: 12399 milliseconds
+INFO    2024-08-11 02:09:30,705 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:30,705 [main] com.qa.util.Utility  68- Time left is: 11873 milliseconds
+INFO    2024-08-11 02:09:31,230 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:31,231 [main] com.qa.util.Utility  68- Time left is: 11347 milliseconds
+INFO    2024-08-11 02:09:31,757 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:31,757 [main] com.qa.util.Utility  68- Time left is: 10821 milliseconds
+INFO    2024-08-11 02:09:32,285 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:32,285 [main] com.qa.util.Utility  68- Time left is: 10293 milliseconds
+INFO    2024-08-11 02:09:32,810 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:32,811 [main] com.qa.util.Utility  68- Time left is: 9767 milliseconds
+INFO    2024-08-11 02:09:33,335 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:33,335 [main] com.qa.util.Utility  68- Time left is: 9243 milliseconds
+INFO    2024-08-11 02:09:33,857 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:33,857 [main] com.qa.util.Utility  68- Time left is: 8721 milliseconds
+INFO    2024-08-11 02:09:34,383 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:34,383 [main] com.qa.util.Utility  68- Time left is: 8195 milliseconds
+INFO    2024-08-11 02:09:34,908 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:34,908 [main] com.qa.util.Utility  68- Time left is: 7670 milliseconds
+INFO    2024-08-11 02:09:35,456 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:35,456 [main] com.qa.util.Utility  68- Time left is: 7122 milliseconds
+INFO    2024-08-11 02:09:36,036 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:36,036 [main] com.qa.util.Utility  68- Time left is: 6542 milliseconds
+INFO    2024-08-11 02:09:36,575 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:36,575 [main] com.qa.util.Utility  68- Time left is: 6003 milliseconds
+INFO    2024-08-11 02:09:37,101 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:37,102 [main] com.qa.util.Utility  68- Time left is: 5476 milliseconds
+INFO    2024-08-11 02:09:37,625 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:37,625 [main] com.qa.util.Utility  68- Time left is: 4953 milliseconds
+INFO    2024-08-11 02:09:38,148 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:38,148 [main] com.qa.util.Utility  68- Time left is: 4430 milliseconds
+INFO    2024-08-11 02:09:38,683 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:38,684 [main] com.qa.util.Utility  68- Time left is: 3894 milliseconds
+INFO    2024-08-11 02:09:39,242 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:39,242 [main] com.qa.util.Utility  68- Time left is: 3336 milliseconds
+INFO    2024-08-11 02:09:39,766 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:39,766 [main] com.qa.util.Utility  68- Time left is: 2812 milliseconds
+INFO    2024-08-11 02:09:40,288 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:40,288 [main] com.qa.util.Utility  68- Time left is: 2290 milliseconds
+INFO    2024-08-11 02:09:40,812 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:40,812 [main] com.qa.util.Utility  68- Time left is: 1766 milliseconds
+INFO    2024-08-11 02:09:41,338 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:41,338 [main] com.qa.util.Utility  68- Time left is: 1240 milliseconds
+INFO    2024-08-11 02:09:41,862 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:41,862 [main] com.qa.util.Utility  68- Time left is: 716 milliseconds
+INFO    2024-08-11 02:09:42,387 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:42,387 [main] com.qa.util.Utility  68- Time left is: 191 milliseconds
+INFO    2024-08-11 02:09:42,911 [main] com.qa.util.Utility  67- This WebElement is not visible on the page: By.xpath: //h2[text()='Your  fdfd topics']
+INFO    2024-08-11 02:09:42,912 [main] com.qa.util.Utility  68- Time left is: -334 milliseconds
+ERROR   2024-08-11 02:09:42,912 [main] com.qa.util.Utility  71- Could not find the WebElement within the given timeout.
